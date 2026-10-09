@@ -1,0 +1,9 @@
+# Obsidian per-user state (keep shared settings like app.json, templates.json)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
